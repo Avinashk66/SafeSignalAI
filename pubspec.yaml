@@ -1,0 +1,35 @@
+name: safesignal_ai
+description: "An AI-powered emergency response and monitoring application."
+publish_to: 'none' # Prevents accidental publishing to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State Management
+  provider: ^6.1.1
+
+  # Optional but recommended for production UI (uncomment if needed)
+  # google_fonts: ^6.1.0
+  # flutter_svg: ^2.0.10
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Standard linting for clean code
+  flutter_lints: ^3.0.0
+
+flutter:
+  # Enables Material Design 3 and icon support
+  uses-material-design: true
+
+  # If you decide to add custom assets/images later,
+  # uncomment the section below:
+  # assets:
+  #   - assets/images/
