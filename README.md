@@ -22,11 +22,8 @@
 - [Getting Started](#-getting-started)
 - [Installation](#-installation)
 - [Usage](#-usage)
-- [Architecture](#-architecture)
 - [Contributing](#-contributing)
 - [Contributors](#-contributors)
-- [License](#-license)
-- [Support](#-support)
 
 ---
 
@@ -321,7 +318,7 @@ We welcome contributions from the community! Please follow these guidelines:
 
 1. **Fork the Repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/SafeSignalAI.git
+   git clone https://github.com/Avinashk66/SafeSignalAI.git
    cd SafeSignalAI
    ```
 
@@ -370,118 +367,10 @@ We welcome contributions from the community! Please follow these guidelines:
 
 ## 👥 Contributors
 
-<div align="center">
-
-### Project Maintainer
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Avinashk66">
-        <img src="https://avatars.githubusercontent.com/u/222844949?v=4" width="100px;" alt="Avinashk66"/><br/>
-        <sub><b>Avinashk66</b></sub>
-      </a>
-      <br/>
-      <small>Creator & Lead Maintainer</small><br/>
-      <small>💻 3 contributions</small>
-    </td>
-  </tr>
-</table>
-
-### Contribution Stats
-
-- **Total Contributors:** 1 (so far!)
-- **Total Contributions:** 3
-- **Repository Created:** 2026-04-28
-
-### How to Become a Contributor
-
-We're looking for contributions in:
-- 🎨 UI/UX improvements
-- 🧪 Testing & quality assurance
-- 📚 Documentation
-- 🐛 Bug fixes
-- ✨ New features
-- 🌍 Translations
-
-**First-time contributors are welcome!** Check out our [Issues](https://github.com/Avinashk66/SafeSignalAI/issues) labeled `good-first-issue`.
-
-</div>
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-### License Summary
-
-- ✅ Commercial use
-- ✅ Modification
-- ✅ Distribution
-- ✅ Private use
-- ❌ Liability
-- ❌ Warranty
-
----
-
-## 🆘 Support
-
-### Getting Help
-
-**Documentation:**
-- 📖 [Project Wiki](https://github.com/Avinashk66/SafeSignalAI/wiki)
-- 🐛 [Issue Tracker](https://github.com/Avinashk66/SafeSignalAI/issues)
-- 💬 [Discussions](https://github.com/Avinashk66/SafeSignalAI/discussions)
-
-**Common Issues:**
-
-| Problem | Solution |
-|---------|----------|
-| App crashes on startup | Clear app cache and reinstall |
-| Location not working | Check location permissions in settings |
-| AI not responding | Verify Gemini API key and internet connection |
-| Notifications not appearing | Enable notification permissions |
-
-### Reporting Bugs
-
-Please [create an issue](https://github.com/Avinashk66/SafeSignalAI/issues/new) with:
-- Descriptive title
-- Steps to reproduce
-- Expected vs. actual behavior
-- Screenshots/logs
-- Device info (OS, version, Flutter version)
-
-### Feature Requests
-
-Suggest improvements by [opening a discussion](https://github.com/Avinashk66/SafeSignalAI/discussions) with:
-- Use case description
-- Benefits to users
-- Proposed implementation (optional)
-
----
-
-## 📊 Project Statistics
-
-| Metric | Value |
-|--------|-------|
-| Repository Age | Created 2026-04-28 |
-| Language | Multi-language (Dart, C++, Swift) |
-| Platform | iOS & Android |
-| License | MIT |
-| Stars | ⭐ |
-| Forks | 🍴 |
-| Contributors | 1 |
-| Open Issues | 0 |
-
----
-
-## 🔔 Stay Updated
-
-- ⭐ Star this repository for updates
-- 👁️ Watch for new releases
-- 📧 Follow project announcements
-
+- [Vinesh2007](https://github.com/Vinesh2007)
+- [Avinashk66](https://github.com/Avinashk66)
+- [sabarirajan83](https://github.com/sabarirajan83)
+- [BarathiShankar](https://github.com/BarathiShankar)
 ---
 
 ## ❤️ Acknowledgments
@@ -495,15 +384,12 @@ Suggest improvements by [opening a discussion](https://github.com/Avinashk66/Saf
 
 ## 📞 Contact
 
-- **GitHub:** [@Avinashk66](https://github.com/Avinashk66)
 - **Issues:** [SafeSignalAI Issues](https://github.com/Avinashk66/SafeSignalAI/issues)
 - **Discussions:** [SafeSignalAI Discussions](https://github.com/Avinashk66/SafeSignalAI/discussions)
 
 ---
 
 <div align="center">
-
-**Made with ❤️ by [Avinashk66](https://github.com/Avinashk66)**
 
 ⭐ If you find this project helpful, please consider starring it! ⭐
 
